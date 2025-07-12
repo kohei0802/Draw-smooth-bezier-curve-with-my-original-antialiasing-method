@@ -6,10 +6,10 @@ My solution to Games101 HW4. The GUI interface is provided by the teaching team.
 2. Implement my Original anti-aliasing method to massively improve the smoothness of the Curve.
 
 # Result
-## Before
+## Before (you can observe the "stair" shaped artifacts)
 <img width="555" height="439" alt="without-antialiasing" src="https://github.com/user-attachments/assets/1766d3dc-953e-4b6c-93fd-c0fe5a8ce2f1" />
 
-## After (Much smoother)
+## After (Much smoother without the "stair" shaped artifacts)
 <img width="555" height="439" alt="better_my_method" src="https://github.com/user-attachments/assets/44a2cd41-e04d-4a7e-8330-572fa3495752" />\
 
 # Explanation of my anti-aliasing method 
