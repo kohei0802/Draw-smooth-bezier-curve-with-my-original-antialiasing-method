@@ -1,5 +1,5 @@
 # Bezier curve drawer - Computer Graphics
-My solution to Games101 HW4. The GUI interface is provided by the teaching team.
+My solution to Games101 exercise 4. 
 
 # My main tasks
 1. Implement de Casteljau algorithm to draw a Bézier curve with any number of control points
@@ -39,3 +39,5 @@ then, go into ./build/ directory or create one if it's not there and run
 
 # Library used
 OpenCV for loading images and creating images.
+
+The GUI interface is provided by the teaching team.
